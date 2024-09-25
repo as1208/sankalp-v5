@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "849071102771",
+    "project_id": "sankalp-v5",
+    "storage_bucket": "sankalp-v5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849071102771:android:d6ab0645f4776f0f28bc46",
+        "android_client_info": {
+          "package_name": "com.sankalp.planv5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849071102771-188rq2oam5id1n8465r4un0skmahiifk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxHvaPHunTKdE43MvfX7L33c72ovf7IQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849071102771-188rq2oam5id1n8465r4un0skmahiifk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849071102771-lp39g7bsbsphqvbdd9n76rnk8apf18ms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sankalp.planv5"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
